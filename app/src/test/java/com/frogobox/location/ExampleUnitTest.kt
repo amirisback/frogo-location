@@ -1,4 +1,4 @@
-package com.frogobox.frogolocation
+package com.frogobox.location
 
 import org.junit.Test
 
