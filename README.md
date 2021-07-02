@@ -1,7 +1,5 @@
 ## Frogo Location (work-in-progress 👷🔧️👷‍♀️⛏)
-
-## About This Project
-SDK for anything your problem to make easier developing android apps
+SDK for anything your problem to make easier developing android apps.
 frogo-location is under huge large development
 
 ## Version Release
